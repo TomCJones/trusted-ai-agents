@@ -8,6 +8,10 @@ labels: usecase
 
 ## Summary
 
+<!-- Titles, like one-sentence user stories, are easiest to come up with AFTER filling out the rest, don't overthink the first draft -->
+
+_Title_
+
 **As a [primary actor],**
 **I want [an action or feature],**
 **With [additional requirement or side-effect],**
@@ -38,6 +42,7 @@ Optionally, mark one actor as primary. -->
 
 ### Happy Path:
 
+<!-- Enumerate actions/steps, and/or mermaid diagram -->
 
 ### Alternative Paths:
 
