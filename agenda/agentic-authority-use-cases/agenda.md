@@ -1,0 +1,101 @@
+# 2025-10-13 Meeting Notes
+
+## Agenda
+
+| **Time**   | **Agenda Item**                                                                               | **Lead** | **Notes**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ---------- | --------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **5 min**  | Start recording<br>Welcome & antitrust notice<br>Introduction of new members<br>Agenda review | Chairs   | **Antitrust Policy Notice:**<br>Attendees are reminded to adhere to the meeting agenda and not participate in activities prohibited under antitrust and competition laws.<br><br>Only members of the **Decentralized Identity Foundation (DIF)** who have signed the necessary agreements are permitted to participate in this activity beyond an observer role.<br><br>To join DIF and sign the charter, please visit: [https://identity.foundation/join/](https://identity.foundation/join/)<br><br>**Code of Conduct:** [https://github.com/decentralized-identity/org/blob/master/code-of-conduct.md](https://github.com/decentralized-identity/org/blob/master/code-of-conduct.md)<br><br>**Licensing Policy Reminder:**<br>In addition to the licensing terms of this Working Group’s JDF charter, any Working Group Participant who makes a contribution to a Draft Deliverable shall have a maximum of **45 days** from the date of that contribution to exclude any Essential Claims pertaining to that contribution. |
+| **5 min**  | Review of previous action items                                                               | Chairs   | Quick review of open items and updates from prior meetings.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **40 min** | **Main Topic:** Process for Managing and Registering Use Cases                                | Chairs   | Discussion on how the Working Group defines, tracks, and publishes use cases.<br>• Review prior emails beforehand.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **5 min**  | Review decisions and action items<br>Planning for next meeting                                | Chairs   | Summarize key decisions, confirm action owners, and discuss agenda for next session.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+## Notes
+
+### Attendees :
+
+  * Dimitry Zagiulin
+  * Nicola Gallo
+  * Sachio Iwamoto
+  * Thierry Thevenet
+  * Agne Caunt
+  * Tom Jones
+  * Alan Karp
+  * Alex Bainbridge | WG 
+  * Frederic Choudat
+  * Geun-Hyung Kim
+  * Iain Henderson
+  * Savita Farooqui
+  * Drummond Reed
+  * Makki Elfatih
+  * Sultan Mahmud
+  * Kim Duffy
+  * Juan Caberello 
+    
+### How Do We Govern Use Cases
+
+* Use Case Template -- Propose A Template
+* Alan Karp -- Setup An Issues Page. SOLID does an issue page.
+  *  Cons : Group did not interact well with the use cases.
+* Alex Bainsbridge:
+  * https://dif.notion.site/HOSPITALITY-TRAVEL-SIG-242105321e1747f8bce776bf634a55b3
+  * Pros and Cons : Not everyone can update it
+* Prior Art from Ben:
+  * https://wallet.storage/user-stories/connect-wallet  
+  * https://wallet.storage/user-stories/share-vc
+  * https://wallet.storage/user-stories/share-vc-undo
+  * https://wallet.storage/user-stories/delete
+* Updating and Commenting
+  * Sachio : How can Alan's document be applied to different industries.
+    * General vs. Specific
+    * Mechanism Creations
+    * Where can be the one pager?
+    * General vs. Specific Categories 
+* Tom :
+  * Excption to building use cases toward industries.
+  * Use Cases should test our ideas?
+  * Person Oriented not Industry Oriented. By Human Focal Point.
+* Dimitri :
+  * Push back on industry specific use case.
+  * How do we filter / carry them?
+  * If a use case is narrow, hold off on them.
+  * Care about genearlity.
+  * Drummond +1 to Dmitry's ooint
+* Alan :
+  * Industry use cases useful for adoption.
+  * Not too narrowly focuesed.
+* Nicola :
+  * Goal : Generate some design patterns.
+* Makki :
+  * Shouldn't expect industry can inform us.
+  * How do we build an ecosystem of Trusted AI Agents. 
+* Juan :
+  * Propose : Consensus Mechanism
+  * Rocketing : I'll contribute
+  * Parallelized Activity
+  * Write the next one
+* Dimitry : Should multiple people be required.
+* Alan : Anyone should be able to put a use case up.
+* Makki : Use this call to short list the use case.
+  * Next Call : Get a sample prepare
+*  Use Cases:
+*    Agentic AI securely mediates HULA agreements using biometric authentication to verify user identity, assurance and intent. This ensures non-repudiation and trust in digital interactions enabling autonomous agents to execute legally binding actions on behalf of users.
+*    As a use case, consider an AI agent that runs a multi-step workflow across several APIs operating under different security boundaries. When one step fails, the agent doesn’t just roll back automatically, it analyzes the situation, checks for possible recovery options, and decides whether to retry, undo previous steps, or report the issue based on simple rules.
+* Makki : To help with the governance of the use cases.
+* Invitation is All You Need.
+* Juan Quick sidebar (people can comment on this message in parallel to the main discussion): what should the template include?
+1.) all acting/determinant parties (including agents, AuthZ servers, etc), enumerated and named/represented by a Letter/Number/etc.
+2.) specific AuthZ/policy language/DSL reqs (i.e. actor C needs logs about what actors A and B did)
+
+## Action Items: 
+
+ - [ ] Template By Next Week That Would Accomodate The Use Case Provided By Nicola <- Nicola 
+ - [ ] Governance Process for Use Case Management <- Makki
+   - [ ] Shared Glossary / Definition
+
+## Goals For Next Call : 
+
+- [ ] Have 2 Use Cases To Discuss
+
+
+
+
+
