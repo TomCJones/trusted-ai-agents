@@ -8,16 +8,20 @@ labels: usecase
 
 ## Summary
 
-<!-- Titles, like one-sentence user stories, are easiest to come up with AFTER filling out the rest, don't overthink the first draft -->
+_<!-- Insert Title Here -->_
 
-_Title_
+### Driving User Story
 
 **As a [primary actor],**
 **I want [an action or feature],**
 **With [additional requirement or side-effect],**
 **So that [a reason or benefit].**
 
-## Who and What
+## Context
+
+### Terminology
+
+<!-- If you use any terms differently or more precisely than usual -->
 
 ### Actors
 
@@ -30,7 +34,7 @@ Optionally, mark one actor as primary. -->
 
 ## Flows
 
-<!-- Feel free to write "TBD" or "N/A" for sections you don't have a clear answer for year, but don't remove them, it's a helpful reminder for later. -->
+<!-- Feel free to write "TBD" or "N/A" for any subsections you don't have a clear answer for year, but don't remove them, it's a helpful reminder for later. -->
 
 ### Preconditions:
 
@@ -42,7 +46,6 @@ Optionally, mark one actor as primary. -->
 
 ### Happy Path:
 
-<!-- Enumerate actions/steps, and/or mermaid diagram -->
 
 ### Alternative Paths:
 
@@ -64,5 +67,7 @@ To put it another way, what observable behaviors or metrics can be used to detec
 ## References:
 
 ### Prior Art
+
+<!-- Highly recommend including links to blog posts, case studies, thought experiments, and prototypes that influenced this idea, including your own! good to have a [timestamped] snapshot if you want bragging rights about your input to the collective process 😉 -->
 
 ### Annotated Bibliography
