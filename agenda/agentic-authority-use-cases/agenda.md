@@ -20,11 +20,10 @@ Note: This is during the week of IIW. We expect less activity than usual tomorro
 
  - [x] Template By Next Week That Would Accomodate The Use Case Provided By Nicola <- Nicola & Juan
  - [ ] TODO : Governance Process for Use Case Management <- Makki
-   - [ ] TODO Shared Glossary / Definition 
+   - [ ] TODO Shared Glossary / Definition
+ - [x] Have 2 use cases for the next call: Tom / Nicola
 
 ## Goals For Next Call : 
-
-- [ ] Have 2 Use Cases To Discuss
 
 
 # 2025-10-13 Meeting Notes
