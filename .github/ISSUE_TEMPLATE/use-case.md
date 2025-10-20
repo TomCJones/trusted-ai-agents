@@ -19,6 +19,12 @@ _<!-- Insert Title Here -->_
 
 ## Context
 
+- [  ] I have looked for similar use cases and feel this issue is a distinct use-case, rather than best encoded as a variant or "alternate path" to an existing one.
+	
+### Related Use Cases  
+	
+<--! Leave empty if none; otherwise, a bullet list is best, whether annotated or not. -->
+	
 ### Terminology
 
 <!-- If you use any terms differently or more precisely than usual -->
