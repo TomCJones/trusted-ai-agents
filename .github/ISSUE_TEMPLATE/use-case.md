@@ -2,6 +2,7 @@
 name: Use Case
 about: Use this template to propose a use case be elaborated collectively.
 title: "[UC] <<brief description of use case>>"
+champion: <<Name>> ( <<github handle>> )
 labels: usecase
 
 ---
