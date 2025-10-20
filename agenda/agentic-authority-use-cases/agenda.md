@@ -1,3 +1,71 @@
+# 2025-10-20 Meeting Notes
+
+Note: This is during the week of IIW. We expect less activity than usual tomorrow. 
+
+## Agenda
+
+| **Time**   | **Agenda Item**                                                                               | **Lead** | **Notes**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ---------- | --------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **5 min**  | Start recording<br>Welcome & antitrust notice<br>Introduction of new members<br>Agenda review | Chairs   | **Antitrust Policy Notice:**<br>Attendees are reminded to adhere to the meeting agenda and not participate in activities prohibited under antitrust and competition laws.<br><br>Only members of the **Decentralized Identity Foundation (DIF)** who have signed the necessary agreements are permitted to participate in this activity beyond an observer role.<br><br>To join DIF and sign the charter, please visit: [https://identity.foundation/join/](https://identity.foundation/join/)<br><br>**Code of Conduct:** [https://github.com/decentralized-identity/org/blob/master/code-of-conduct.md](https://github.com/decentralized-identity/org/blob/master/code-of-conduct.md)<br><br>**Licensing Policy Reminder:**<br>In addition to the licensing terms of this Working Group’s JDF charter, any Working Group Participant who makes a contribution to a Draft Deliverable shall have a maximum of **45 days** from the date of that contribution to exclude any Essential Claims pertaining to that contribution. |
+| **5 min**  | Review of previous action items                                                               | Chairs   | Quick review of open items and updates from prior meetings. Notify about wrong repo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **40 min** | **Main Topic:** Process for Managing and Registering Use Cases                                | Chairs   | [PR #2](https://github.com/decentralized-identity/trusted-ai-agents/pull/2) and [https://github.com/decentralized-identity/trusted-ai-agents/issues/3](https://github.com/decentralized-identity/trusted-ai-agents/issues/3)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **5 min**  | Review decisions and action items<br>Planning for next meeting                                | Chairs   | Summarize key decisions, confirm action owners, and discuss agenda for next session.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+
+
+### Attendees :
+
+- Nicola Gallo
+- Andor Kesselman 
+- Kim Hamilton Duffy
+- Tom Jones
+- Agne Caunt
+- Alan Karp
+- Alex Bainbrige
+- Antinio Radesca
+- Juan Cabarello
+- Dmitry Zagidulin
+- Geun Hyung Kim
+- Makki Elfaith
+- Sachio Iwamoto
+- Theirry Thevenet
+- Victor Lu
+
+## Notes
+
+- Parallelized work items.
+- How soon do we want 1 or more
+- Fine to work in a google doc.
+- Source of truth for a work item.
+- Moving to git is an agreement/consensus mechanism.
+- Faster to work in Google Docs.
+- How soon can there be consensus on V1.
+- Sachio : How flexible on the progress
+- Andor :
+  - Owners of use case will drive how flex.
+  - https://github.com/decentralized-identity/trusted-ai-agents/issues/3
+- I do think there’s a role for both
+- developers are human, today, kind of ;)
+- AI soon!
+- I think if we align it to the governance will be great, basically answering those 3 questions:
+- Goal/Problem: What is the Agent trying to achieve? (e.g., "Run a multi-step workflow across several APIs operating under different security boundaries, with intelligent failure handling.")
+Estimated Value: Why is this important? (e.g., "Enhance workflow reliability by enabling adaptive recovery, reducing downtime in cross-system integrations by 20%.")
+Required Autonomy (Simple Tag): Does the Agent suggest (Low), execute simple tasks (Medium), or plan/execute complex workflows (High)?
+This is also more of the user story section if you will
+- Suggestion : Give people that build use cases time to present!
+
+
+Note: we might have two audiences.
+
+## Action Items: 
+
+- [ ] Develop a plan around timelines
+- [ ] Give feedback and finish off issues Use case: Adaptive error handling in multi-step API workflows #3, Detail Governance Process for Accepting Use Cases #5 Bumblefudge/add-usecase-template #2
+- [ ] What is the deliverable?
+
+## Goals For Next Call : 
+
+Set a clear course for work in the Working Item. 
+
 # 2025-10-13 Meeting Notes
 
 ## Agenda
