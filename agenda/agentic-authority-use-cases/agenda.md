@@ -8,16 +8,62 @@
 | **5 min**  | Review of previous action items                                                               | Chairs   | Quick review of open items and updates from prior meetings. Notify about wrong repo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | **20 min** | **AIW Updates:** Timeline Alignment                                | Chairs   | AIW updates       
 | **20 min** | **Main Topic:** Timeline Alignment                                | Chairs   | [PR #2](https://github.com/decentralized-identity/trusted-ai-agents/pull/2) and [https://github.com/decentralized-identity/trusted-ai-agents/issues/3](https://github.com/decentralized-identity/trusted-ai-agents/issues/3) and [#6](https://github.com/decentralized-identity/trusted-ai-agents/issues/6), [7](https://github.com/decentralized-identity/trusted-ai-agents/issues/7)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| **5 min**  | Review decisions and action items<br>Planning for next meeting                                | Chairs   | Summarize key decisions, confirm action owners, and discuss agenda for next session.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-
+| **5 min**  | Review decisions and action items<br>Planning for next meeting                                | Chairs   | Summarize key decisions, confirm action owners, and discuss agenda for next session.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
 
 ### Attendees :
 - Andor Kesselman
 - Nicola Gallo
-- Dimitry Z. 
-
+- Dimitry Z.
+- Neil Thomson
+- Geun Hyung Kim
+- Ivan
+- Victor Lu
+- Savita Farooqui
+- Alan Karp
+- Tom Jones
+- Alex Bainbridge
+- Douglas Rice
 
 ## Notes
+
+**AIW Concepts**
+- Know Your Agent w/ KYAPay 
+- MCP Governance Challenges 
+- Security and Identity in Agentic Browsers 
+- Personal AI w/ Loyal Agents
+- Private Inference 
+- Agentic DNS (IAS)
+- Data Provence For Agentic Digital Media
+- Limiting Data Access For Agents
+- Open Knowledge Graph Agent Protocol
+- ERC-8004 -- Trustless Agents 
+- Legal Layer for Agentic Commerce Contracts for Rights Duties, Liability
+- Murderbot Metaphor 
+- Human in the Loop Messaging Protocol
+- Tools for Trusting Agents: Leveraging Existing OpenID Fed 
+- Agentic Identity Books Club 
+- Building Trust in the Agentic Web Through Accountability
+- “Agenthood” How first Person identity can apply to AI Agents 
+- PEA - Policy Enforcer in your agent 
+- Creating An Agentic Trust Market Capability Map
+- Maximally Minimal “ Server User-Agents” 
+- Agent Evals
+- MyTerms and Agents 
+- Agent ID Can Be No Stronger Than the Person/Org Behind it
+- Fine Grained AuthZ in OAuth and MCP
+- Identity delegation with Agents
+- Dumb Agents
+- Fastest Path to 1 Billion Authenticated Agents
+- Human / Agentic Meta Cognition
+- How Would you Design Private AI Glasses
+- AP2 & ACP Agentic Commerce Impact 
+- Agent Surfaces and Digital Freedom 
+- JOINC (Audit Langchain)
+- How to Reliably Anchor Agents to Ground Truth
+- Privacy is Normal and the path to Value in the Agentic Everything
+- MCP-I Extending MCP
+
+1. https://github.com/decentralized-identity/trusted-ai-agents/issues/7
 
 
 ## Action Items: 
