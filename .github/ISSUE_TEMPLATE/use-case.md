@@ -36,30 +36,31 @@ Optionally, mark one actor as primary. -->
 
 <!-- Feel free to write "TBD" or "N/A" for any subsections you don't have a clear answer for year, but don't remove them, it's a helpful reminder for later. -->
 
-### Preconditions
+### 0 - Preconditions
 
 <!-- What conditions must be in place or assumed before this use case can begin? -->
 
-### Trigger
+### 1 - Trigger
 
 <!-- What (user or system) event or action initiates this use case? -->
 
-### Happy Path
+### 2A - Happy Path
 
-### Alternative Paths
-
-<!-- Feel free to not just list these at a high level, but name these and add a #### heading for each, now or later -->
-
-### Failure Modes
+### 2B - Alternative Paths
 
 <!-- Feel free to not just list these at a high level, but name these and add a #### heading for each, now or later -->
 
-### Success Criteria
+### 3A - Challenges and Key Risks
+
+<!-- Can be failure modes/conditions or just more qualitative issues that affect satisfaction/safety less definitively. 
+Feel free to not just list these at a high level, but name these and add a #### heading for each, now or later -->
+
+### 3B - Success Criteria
 
 <!-- What conditions or criteria must be met for this use case to be considered successfully handled? What limitations are acceptable? 
 To put it another way, what observable behaviors or metrics can be used to detect a failure more, or differentiate happy paths-or-outcomes from less-happy paths-or-outcomes? -->
 
-### Acceptable Outcomes
+### 3C - Acceptable Outcomes
 
 <!-- Distinct from whether or not a flow was succesful or which outcome, what are the minimally required outcomes or side-effects (e.g. logs) across all outcomes. -->
 
