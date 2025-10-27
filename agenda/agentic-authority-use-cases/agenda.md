@@ -63,11 +63,19 @@
 - Privacy is Normal and the path to Value in the Agentic Everything
 - MCP-I Extending MCP
 
+Notes on: 
 1. https://github.com/decentralized-identity/trusted-ai-agents/issues/7
+2. https://github.com/decentralized-identity/trusted-ai-agents/issues/5
+3. https://github.com/decentralized-identity/trusted-ai-agents/issues/3
+4. https://github.com/decentralized-identity/trusted-ai-agents/issues/6
 
+Created https://github.com/decentralized-identity/trusted-ai-agents/issues/10
+
+Tagged discuss-next-call for issues that will be brought up next call.
 
 ## Action Items: 
 
+- [ ] Comment on issues async! 
 
 ## Goals For Next Call : 
 
