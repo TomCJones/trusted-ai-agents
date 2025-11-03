@@ -11,12 +11,41 @@
 
 ### Attendees :
 
+* Andor
+* Dmitri
+* Victor
+* Tom
+* Matt
+* Alan Karp
+* Iain
+* Thierry
+* Michael Herman
+* Misha
+* Douglas Rice
+* Jim St. Clair
 
 ## Notes
 
+* Richard Peterson : ERC-8004 Trustless Agents. Wants to make sure the efforts are in sync. 
+* Jim : Curious about trusted AI Agents. Co-Lead AI Agents in AGNTCY. LF Data Foundation Trustworthy AI Initative.
+* Douglas Rice : Co-Chair of Hospitality Travel Group & DIF. How does AI Agents work with Travel?
+* Dimitri : Here to get a minimal set of use cases to work on.
+* Jim : Why do we need DID's to solve the use case?
+* Juan : Disposition is it requires multiple trust boundaries. 
+* Juan : Submit a PR? If you're stepping away, allow chairs write directly to branch?
+* Alan : This use case is particular on permissions. Delegation vs. Impersonation. 
+* Jim : What the most technically elegant solution is decentralized X?
+* Alan : Use cases don't present anything about the solution. The use case is the problem.
+* Makki : Governance process describes this.
+* Alan : Certain enterprise use cases. Centralized is the answer. So it's context based.
+* Andor : How strongly positioned do we focus on a particular set of technology?
+* Richard : Hybrid based.
+* 
 
 ## Action Items: 
 
+- [ ] Douglas : Draft a Use Case For H&T.
+- [ ] Alan : To submit PR with the Use Case off `main` branch for feedback.
 
 # 2025-10-27 Meeting Notes
 
