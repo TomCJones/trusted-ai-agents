@@ -1,3 +1,52 @@
+# 2025-11-03 Meeting Notes
+
+## Agenda
+
+| **Time**   | **Agenda Item**                                                                               | **Lead** | **Notes**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ---------- | --------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **5 min**  | Start recording<br>Welcome & antitrust notice<br>Introduction of new members<br>Agenda review | Chairs   | **Antitrust Policy Notice:**<br>Attendees are reminded to adhere to the meeting agenda and not participate in activities prohibited under antitrust and competition laws.<br><br>Only members of the **Decentralized Identity Foundation (DIF)** who have signed the necessary agreements are permitted to participate in this activity beyond an observer role.<br><br>To join DIF and sign the charter, please visit: [https://identity.foundation/join/](https://identity.foundation/join/)<br><br>**Code of Conduct:** [https://github.com/decentralized-identity/org/blob/master/code-of-conduct.md](https://github.com/decentralized-identity/org/blob/master/code-of-conduct.md)<br><br>**Licensing Policy Reminder:**<br>In addition to the licensing terms of this Working Group’s JDF charter, any Working Group Participant who makes a contribution to a Draft Deliverable shall have a maximum of **45 days** from the date of that contribution to exclude any Essential Claims pertaining to that contribution. |
+| **5 min**  | Review of previous action items                                                               | Chairs   | Quick review of open items and updates from prior meetings. Notify about wrong repo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **20 min** | **Main Topic:** Timeline Alignment                                | Chairs   | [PR #2](https://github.com/decentralized-identity/trusted-ai-agents/pull/2) and [https://github.com/decentralized-identity/trusted-ai-agents/issues/3](https://github.com/decentralized-identity/trusted-ai-agents/issues/3) and [#6](https://github.com/decentralized-identity/trusted-ai-agents/issues/6), [7](https://github.com/decentralized-identity/trusted-ai-agents/issues/7)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **5 min**  | Review decisions and action items<br>Planning for next meeting                                | Chairs   | Summarize key decisions, confirm action owners, and discuss agenda for next session.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+
+### Attendees :
+
+* Andor
+* Dmitri
+* Victor
+* Tom
+* Matt
+* Alan Karp
+* Iain
+* Thierry
+* Michael Herman
+* Misha
+* Douglas Rice
+* Jim St. Clair
+
+## Notes
+
+* Richard Peterson : ERC-8004 Trustless Agents. Wants to make sure the efforts are in sync. 
+* Jim : Curious about trusted AI Agents. Co-Lead AI Agents in AGNTCY. LF Data Foundation Trustworthy AI Initative.
+* Douglas Rice : Co-Chair of Hospitality Travel Group & DIF. How does AI Agents work with Travel?
+* Dimitri : Here to get a minimal set of use cases to work on.
+* Jim : Why do we need DID's to solve the use case?
+* Juan : Disposition is it requires multiple trust boundaries. 
+* Juan : Submit a PR? If you're stepping away, allow chairs write directly to branch?
+* Alan : This use case is particular on permissions. Delegation vs. Impersonation. 
+* Jim : What the most technically elegant solution is decentralized X?
+* Alan : Use cases don't present anything about the solution. The use case is the problem.
+* Makki : Governance process describes this.
+* Alan : Certain enterprise use cases. Centralized is the answer. So it's context based.
+* Andor : How strongly positioned do we focus on a particular set of technology?
+* Richard : Hybrid based.
+* 
+
+## Action Items: 
+
+- [ ] Douglas : Draft a Use Case For H&T.
+- [ ] Alan : To submit PR with the Use Case off `main` branch for feedback.
+
 # 2025-10-27 Meeting Notes
 
 ## Agenda
