@@ -72,6 +72,7 @@ Additionally, the Trust Fabric must support **trust continuity at the point of c
 This implies modeling a **Trust Chain** that links identity, attestation, and policy decisions across each hop of an interaction — from the originating agent to downstream consumers — preserving verifiability and accountability end-to-end.
 
 To support secure, interoperable agent communication, the Trust Fabric should adopt or extend **DIDComm (Decentralized Identifier Communication)** as a **trusted transport protocol**.  
+
 DIDComm enables authenticated, end-to-end encrypted messaging between agents using DIDs and associated cryptographic keys.  
 Integrating DIDComm allows trust evidence, policy bundles, and attestations to flow securely and verifiably between human, AI, and service agents across domains and networks.
 
