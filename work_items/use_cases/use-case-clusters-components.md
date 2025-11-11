@@ -104,7 +104,7 @@ Below are the key objectives for this component:
 | VD-1 | Define Verifiable Decision Log Model | Specify a common, minimal schema for recording agent decisions and outcomes. | Draft specification for decision log structure. |
 | VD-2 | Ensure Integrity and Verifiability | Define how each log entry is signed, hashed, and linked to the agent’s DID. | Standard for tamper-evident and DID-bound logs. |
 | VD-3 | Support Trust Continuity | Maintain verifiability when logs move or are shared across domains. | Model for chained proofs and end-to-end trust. |
-| VD-4 | Enable Secure Exchange via DIDComm | Use DIDComm for transmitting logs and proofs between agents securely. | Messaging profile for trusted log exchange. |
+| VD-4 | Enable Secure Exchange via messaging | Use messaging for transmitting logs and proofs between agents securely. | Messaging profile for trusted log exchange. |
 | VD-5 | Address Privacy and Selective Disclosure | Allow redacted or scoped sharing of decision data using VC/SD-JWT patterns. | Privacy-preserving mechanism for verifiable logs. |
 | VD-6 | Enable Risk and Anomaly Detection | Use decision trails to identify abnormal or non-compliant agent behaviors in real time. | Framework for verifiable risk and anomaly signals. |
 
