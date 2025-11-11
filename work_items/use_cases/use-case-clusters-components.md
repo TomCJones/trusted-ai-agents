@@ -91,7 +91,6 @@ Below are the key objectives for this component:
 Agents operate very fast and can make deep autonomous decisions.  
 Monitoring alone is not enough — agents need to produce a **decision log** for auditing, accountability, and compliance.  
 
-This log must be **verifiable** and **tamper-evident**, linked to each agent’s **Decentralized Identifier (DID)**.  
 The goal is to define a **decentralized standard** for verifiable decision logs that extends traditional observability with cryptographic trust and provenance.  
 Each decision entry should form part of a **trust chain**, maintaining **trust continuity** as information and actions move across agents, domains, and systems.  
 
