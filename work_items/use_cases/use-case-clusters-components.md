@@ -71,10 +71,7 @@ This enables the seamless integration of **verifiable proofs** and **agent attes
 Additionally, the Trust Fabric must support **trust continuity at the point of consumption**, ensuring that verifiable trust is maintained as data and actions propagate across domains and services.  
 This implies modeling a **Trust Chain** that links identity, attestation, and policy decisions across each hop of an interaction — from the originating agent to downstream consumers — preserving verifiability and accountability end-to-end.
 
-To support secure, interoperable agent communication, the Trust Fabric should adopt or extend **DIDComm (Decentralized Identifier Communication)** as a **trusted transport protocol**.  
-
-DIDComm enables authenticated, end-to-end encrypted messaging between agents using DIDs and associated cryptographic keys.  
-Integrating DIDComm allows trust evidence, policy bundles, and attestations to flow securely and verifiably between human, AI, and service agents across domains and networks.
+To support secure, interoperable agent communication, the Trust Fabric should adopt also messaging as a **trusted transport protocol**.  
 
 Below are the key objectives for this component:
 
@@ -87,7 +84,7 @@ Below are the key objectives for this component:
 | TF-5 | Support Gradual Enterprise Adoption | Ensure the Trust Fabric can be deployed incrementally, coexisting with current enterprise perimeter security. | Migration path and integration roadmap for enterprises. |
 | TF-6 | Enable Trust Continuity at Consumption | Ensure that trust remains verifiable when data or actions move across domains and are consumed by different agents. | Specification for end-to-end trust propagation and validation. |
 | TF-7 | Model the End-to-End Trust Chain | Define a model that connects identity, attestation, and policy decisions across the full interaction path. | Trust chain framework linking actors, attestations, and enforcement points. |
-| TF-8 | Integrate DIDComm for Secure Agent Communication | Leverage DIDComm as a trusted, end-to-end encrypted messaging layer for exchanging trust evidence and policy artifacts between agents. | Reference pattern for verifiable, interoperable agent-to-agent messaging. |
+| TF-8 | Integrate Messaging for Secure Agent Communication | Leverage messaging as a trusted, end-to-end encrypted messaging layer for exchanging trust evidence and policy artifacts between agents. | Reference pattern for verifiable, interoperable agent-to-agent messaging. |
 
 #### Verifiable Decision Trail
 
