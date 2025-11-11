@@ -44,7 +44,7 @@ Below is a summary of the use case clusters, their focus areas, and typical comp
 The scope of the **Agentic Identity & Control Authority** includes defining and managing identities for AI agents — both human and non-human.  
 This includes highlighting the limitations of centralized identity providers and the need for decentralized, verifiable identity solutions.
 
-This work explores how **DIDs (Decentralized Identifiers)** are involved and how **delegation of authority** can be achieved through **Verifiable Credentials**, **ZCAP (Z-Capability)**, and similar mechanisms.  
+This work explores how **DIDs (Decentralized Identifiers)** are involved and how **delegation of authority** can be achieved through **Verifiable Credentials**, **ZCAP-LD**, and similar mechanisms.  
 It also aims to identify potential extensions or new protocols required to support *agentic identity* and autonomous control.
 
 Below are the key objectives for this component:
@@ -52,7 +52,7 @@ Below are the key objectives for this component:
 | ID | Objective | Description | Expected Outcome |
 |----|------------|--------------|------------------|
 | O1 | Define Agent Identity Model | Establish a model for representing human and non-human agent identities using DIDs and VCs. | Common DID-based schema for AI and software agents. |
-| O2 | Explore Delegation Mechanisms | Evaluate ZCAP and other decentralized delegation models to enable verifiable control and consent. | Proposal or reference implementation of delegation patterns. |
+| O2 | Explore Delegation Mechanisms | Evaluate ZCAP-LD and other decentralized delegation models to enable verifiable control and consent. | Proposal or reference implementation of delegation patterns. |
 | O3 | Identify Gaps in Existing Standards | Analyze current DIF and W3C specs to identify missing primitives for agentic identity. | Input for new work item or extension proposal. |
 | O4 | Develop Reference Architecture | Map agent identity, control authority, and delegation into the broader Trusted AI Agent architecture. | Draft diagram and narrative for DIF deliverable. |
 
