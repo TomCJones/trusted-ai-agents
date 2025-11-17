@@ -1,3 +1,164 @@
+# 2025-11-17 Meeting Notes
+
+## Agenda
+
+| **Time**   | **Agenda Item**                                                                               | **Lead** | **Notes**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ---------- | --------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **5 min**  | Start recording<br>Welcome & antitrust notice<br>Introduction of new members<br>Agenda review | Chairs   | **Antitrust Policy Notice:**<br>Attendees are reminded to adhere to the meeting agenda and not participate in activities prohibited under antitrust and competition laws.<br><br>Only members of the **Decentralized Identity Foundation (DIF)** who have signed the necessary agreements are permitted to participate in this activity beyond an observer role.<br><br>To join DIF and sign the charter, please visit: [https://identity.foundation/join/](https://identity.foundation/join/)<br><br>**Code of Conduct:** [https://github.com/decentralized-identity/org/blob/master/code-of-conduct.md](https://github.com/decentralized-identity/org/blob/master/code-of-conduct.md)<br><br>**Licensing Policy Reminder:**<br>In addition to the licensing terms of this Working Group’s JDF charter, any Working Group Participant who makes a contribution to a Draft Deliverable shall have a maximum of **45 days** from the date of that contribution to exclude any Essential Claims pertaining to that contribution. |
+| **5 min**  | Review of previous action items                                                               | Chairs   | Quick review of open items and updates from prior meetings. Notify about wrong repo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **20 min** | **Main Topic:** Timeline Alignment                                | Chairs   | [#20](https://github.com/decentralized-identity/trusted-ai-agents/pull/20) |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **5 min**  | Review decisions and action items<br>Planning for next meeting                                | Chairs   | Summarize key decisions, confirm action owners, and discuss agenda for next session.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ## Attendees:                                                                                                                                                                                             
+
+## Call To Action 
+
+* Agentic Identity & Control Authority : 9
+  * Dmitri Zagidulin
+  * Jim
+  * Alan
+  * Makki
+  * Subra
+  * Geun HK
+  * Sachio
+  * Andor
+  * Nicola
+* Trust Fabric, Attestation and Policy : 5
+  * Nicola
+  * Neil
+  * Dmitri
+  * Geun
+  * Sachio
+* Decentralized Discovery and Trust Registry :  4
+  * Dmitiry
+  * Jim
+  * Sachio
+  * Nicola
+* Adaptive Workflow Orchestration : 2
+  * Andor
+  * Nicola
+* Agentic Negotiation, Commerce, & Value Exchange : 4
+  * Dmitri
+  * Alan
+  * Geun
+  * Subra
+* Verifiable Decision Trail : 2
+  * Nicola
+  * Dmitri
+
+## Notes:
+
+* Alan Karp : https://www.computer.org/csdl/magazine/sp/5555/01/11194053/2aB2Rf5nZ0k
+* Dmitri Zagidulin
+* Neil Thomson
+* Alan Karp
+* Michael Herman
+* Sachio Iwamoto
+* Douglas Rice
+* Geun Hyung Kim
+* Iain Henderson
+* Jim St Clair
+* Nicola Gallo
+* Subra
+* Tom Jones
+* Victor Lu
+* Matt McKinney
+* Makki
+
+## Call To Action 
+
+* Send a message about workstream structure. Decided we will focus on identity to start. Swap out existing time. 
+
+# 2025-11-10 Meeting Notes
+
+## Agenda
+
+| **Time**   | **Agenda Item**                                                                               | **Lead** | **Notes**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ---------- | --------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **5 min**  | Start recording<br>Welcome & antitrust notice<br>Introduction of new members<br>Agenda review | Chairs   | **Antitrust Policy Notice:**<br>Attendees are reminded to adhere to the meeting agenda and not participate in activities prohibited under antitrust and competition laws.<br><br>Only members of the **Decentralized Identity Foundation (DIF)** who have signed the necessary agreements are permitted to participate in this activity beyond an observer role.<br><br>To join DIF and sign the charter, please visit: [https://identity.foundation/join/](https://identity.foundation/join/)<br><br>**Code of Conduct:** [https://github.com/decentralized-identity/org/blob/master/code-of-conduct.md](https://github.com/decentralized-identity/org/blob/master/code-of-conduct.md)<br><br>**Licensing Policy Reminder:**<br>In addition to the licensing terms of this Working Group’s JDF charter, any Working Group Participant who makes a contribution to a Draft Deliverable shall have a maximum of **45 days** from the date of that contribution to exclude any Essential Claims pertaining to that contribution. |
+| **5 min**  | Review of previous action items                                                               | Chairs   | Quick review of open items and updates from prior meetings. Notify about wrong repo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **20 min** | **Main Topic:** Timeline Alignment                                | Chairs   | [PR #14](https://github.com/decentralized-identity/trusted-ai-agents/pull/14) and [PR #15](https://github.com/decentralized-identity/trusted-ai-agents/pull/15) and [PR #17](https://github.com/decentralized-identity/trusted-ai-agents/pull/17) and [PR #19](https://github.com/decentralized-identity/trusted-ai-agents/pull/19)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **5 min**  | Review decisions and action items<br>Planning for next meeting                                | Chairs   | Summarize key decisions, confirm action owners, and discuss agenda for next session.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+
+### Attendees :
+
+* Tom Jones
+* Alan Karp
+* Douglas Rice
+* Thierry Thevenet (Talao),
+* Andor Kesselman,
+* Michael Herman,
+* Iain Henderson,
+* nicolagallo,
+* Mark Lizar,
+* Victor Lu,
+* Neil Thomson,
+* Makki Elfatih,
+* Geun-Hyung Kim,
+* Agne Caunt,
+* Victor Lu,
+* Makki Elfatih
+ 
+## Notes
+
+**DISCLAIMER**
+
+*This meeting summary was automatically generated by Zoom’s AI features and has not been reviewed for accuracy or completeness. Refer to Zoom’s Terms of Service regarding AI use: [https://www.zoom.com/en/blog/zooms-term-service-ai/](https://www.zoom.com/en/blog/zooms-term-service-ai/)*
+
+*To request edits or deletion, email: [operations@identity.foundation](mailto:operations@identity.foundation)*
+
+**Overview**
+
+The meeting focused on managing and progressing use cases forward, with discussions about starting meetings on time and the importance of having actual users in use cases. The team explored various AI agent use cases, including supply chain scenarios, calendar booking, and travel-related applications, emphasizing the need for trusted sources of information and multiple levels of intermediaries. The group discussed agent identity and responsibility, technology stack requirements, and the process for managing and refining use cases, with plans to continue discussions in the next meeting.
+
+**Use Case Management and Progression**
+
+The meeting began with a discussion about starting meetings on time and managing participants. Tom presented a use case that he had expanded based on Andrew's work, which will be the seventh submitted use case. The group discussed the need to manage and progress use cases forward, as there are currently seven submissions. They also addressed the importance of having actual users in use cases, which Tom highlighted as a personal concern. The meeting was led by Nicola, who shared the agenda, and Andor took attendance. Mark, a new DIF member, introduced himself to the group.
+
+**AI Use Cases and Trust Boundaries**
+
+The team discussed various use cases for AI agents, with Alan presenting a complex supply chain scenario involving multiple trust boundaries and enterprise workflows. Andor emphasized the importance of identifying stakeholders willing to advance each use case, suggesting this could be a key factor in evaluating their feasibility. Alan highlighted that these use cases help identify necessary features for the architecture, such as trust management and agent interactions, even if specific use cases may not be implemented directly.
+
+**AI Use Cases and Implementation Challenges**
+
+The group discussed various use cases for AI agents, focusing on their practical value and implementation challenges. Andor emphasized the importance of validating that developed use cases would benefit real people, while Makki suggested having a variety of use cases even if their exact stakeholders aren't clear yet. Alan highlighted the potential of the calendar booking use case as a test bed for AI agents, noting its adversarial nature and the need for features like discovery, agent communication, and negotiation. Douglas provided insights into the complexities of the travel use case, including multi-level delegations and authorization chains. The group agreed on the potential for collaboration with other working groups to further develop these use cases.
+
+**Travel Use Cases Discussion**
+
+Douglas noted that while a specific use case might not be on the immediate implementation list, it could be socialized within the community to generate interest and workflows over the coming months. Alan highlighted the overlap between the virtual travel agent and enterprise use cases, emphasizing the need for trusted sources of information and multiple levels of intermediaries. Neil pointed out the unique aspects of the travel use case, such as the exchange of personal information and the need for a micro-sharing mechanism to ensure the secure handling of data. The group discussed the differences in data provenance requirements between the hotel booking agent and the calendar agent, with Andor suggesting that the hotel use cases may require more advanced technical solutions.
+
+**AI Governance Use Case Development**
+
+The Working Group is focused on developing a Use Case for governance, with emphasis on retaining information past transactions and defining the scope of allowed actions and conditions. Nicolagallo discussed an industrial environment scenario where AI agents manage sensor data in an oil company setting, highlighting differences between this approach and traditional human-AI interactions. The discussion touched on service mesh projects and identity management, with Nicolagallo noting interesting parallels between current challenges and historical oil industry problems.
+
+**Agent Identity vs Authorization Debate**
+
+The group discussed agent identity and responsibility, with Alan emphasizing that the agent's identity is secondary to authorization and permissions management. Andor expressed concern about the lack of real-world deployment feedback for testing the use case, while Nicole suggested potential testing opportunities. The discussion explored two approaches: using agent identity with carefully managed permissions, or starting with authorization to minimize identity-related complications.
+
+**Digital Identity and Trust Framework**
+
+The group discussed identity and trust in digital systems, with Tom advocating for relationship-based identity rather than endpoint-based identity. Neil shared insights from a UN project on supply chain trust registration, highlighting the need for verifiable registries and organizational trust across boundaries. The team agreed to track Tom's relationship identity documentation in the issues section, with Andor requesting a write-up for better tracking. Alan and Andor also discussed a PR for a use case, seeking feedback from the group.
+
+**Use Case Management Process Review**
+
+The team discussed the process for managing and refining use cases, focusing on how to track and mature approved use cases. Alan shared his experience with creating a pull request and suggested setting up a GitHub action to streamline the process. The group agreed that once a use case is approved, it should be added to a markdown file, with the possibility of having multiple people contribute to the PR. They also discussed the need to prioritize which use case to anchor to, with Andor suggesting they consider other options beyond the current one.
+
+**Use Case Qualification Strategy Discussion**
+
+The team discussed qualifying requirements for use cases, focusing on unique architectural features and enterprise-specific needs. They agreed that leading by component rather than accepting individual use cases might be more effective. Alan and Tom emphasized the importance of distinguishing between individual and enterprise users in travel-related use cases. The group decided to start with agentic discovery as a requirement and to focus on building functional components before expanding features. They planned to continue the discussion in the next meeting.
+
+**Action Items and Tech Stack Requirements**
+
+The meeting focused on action items and technology stack requirements. Andor requested participants to add leads for their use cases and map out technology stack requirements, noting that help could be sought if unable to do so. The group discussed a plan to meet next Monday, and participants expressed gratitude and farewells as the conversation ended.
+
+**Action Items**
+1. Tom: Post the relationship identity write-up as a document linked in a new issue in the issues tracker.  
+2. All use case proposers/leads: Add a lead for each use case, either in the issue or in the shared sheet.  
+3. All use case proposers/leads: Map out technology stack requirements for each use case in the shared sheet (or indicate if help is needed).  
+4. Nicola: Lead discussion on use case prioritization and process at the next meeting.  
+5. All: Review and provide feedback on Tom's use case in the doc/issue.  
+6. Chairs/Andor: Offload the burden of submitting use cases as PRs by helping proposers copy-paste and submit PRs for approved use cases.  
+7. All: Consider and discuss at the next meeting the proposal to start by selecting and building out key components (e.g., agentic discovery/registries) and mapping use cases to those components.
+
 # 2025-11-03 Meeting Notes
 
 ## Agenda
